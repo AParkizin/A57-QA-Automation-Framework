@@ -30,16 +30,3 @@ public class Homework16 extends BaseTest {
 
     }
 }
-
-
-
-
-
-
-
-
-// Assert.assertEquals(driver.getCurrentUrl(), url);
-// driver.quit();
-// a[href='registration']
-// h2[style]
-// https://qa.koel.app/registration
